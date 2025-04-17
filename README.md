@@ -1,9 +1,9 @@
 # 🚀 Data Warehousing and Mining (DWM) Practicals  
 
-🔹 **Student Name:** Sujal Junghare  
+🔹 **Student Name:** Tanay Yaduka  
 🔹 **Semester:** VI  
 🔹 **Section:** C  
-🔹 **PRN:** 22070521089  
+🔹 **PRN:** 22070521086
 
 ---
 
@@ -27,35 +27,6 @@ Each practical is designed to provide **hands-on experience with real-world data
 | 7️⃣ | **K-Means Clustering** 🔍 | Unsupervised learning, cluster visualization |
 | 8️⃣ | **Decision Tree Algorithm** 🌲 | Rule-based classification, entropy & information gain |
 | 9️⃣ | **Linear Regression** 📈 | Predictive modeling, RMSE, R² score |
-
----
-
-## ⚙️ How to Run the Programs  
-
-### 🛠️ Step 1: Clone the Repository  
-```bash
-git clone https://github.com/yourusername/dwm-practicals.git
-cd dwm-practicals
-```  
-
-### 🔗 Step 2: Install Dependencies  
-```bash
-pip install pandas numpy scikit-learn matplotlib
-```  
-
-### ▶️ Step 3: Run the Scripts  
-Execute any of the following commands to run the respective practicals:  
-```bash
-python missing_values.py
-python etl_transformations.py
-python olap_operations.py
-python apriori.py
-python naive_bayes.py
-python knn.py
-python kmeans.py
-python decision_tree.py
-python linear_regression.py
-```  
 
 ---
 
